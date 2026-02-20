@@ -18,6 +18,9 @@
         android:layout_height="match_parent"
         android:layout_gravity="center_horizontal"
         android:indeterminate="true"
+        app:trackCornerRadius="4dp"
+        app:trackThickness="8dp" />
+
 
         
 
